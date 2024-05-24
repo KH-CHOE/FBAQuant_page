@@ -1,4 +1,4 @@
-import Menu1 from "../components/menu1";
+import Menu1 from "../components/Menu1";
 import Navbar from "../components/navbar";
 import FrameComponent from "../components/frame-component4";
 import TableRow2 from "../components/table-row2";

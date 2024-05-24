@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+/* <<<<<<< HEAD
 .logo-icon2 {
   height: 24px;
   width: 28px;
@@ -308,4 +308,233 @@
   letter-spacing: normal;
 
 >>>>>>> Incoming
+} */
+
+
+.logo-icon2 {
+  height: 24px;
+  width: 28px;
+}
+
+.main-menu {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 65px;
+}
+
+.fba-quant2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 24px;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: var(--padding-xl);
+  padding-right: var(--padding-xl);
+}
+
+.logo2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-11xl) var(--padding-sm) var(--padding-xl) var(--padding-lg);
+  gap: var(--gap-3xs);
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-500);
+}
+
+.section {
+  align-self: stretch;
+  border-radius: var(--br-7xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-11xl);
+}
+
+.todo {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 31px;
+}
+
+.section1 {
+  align-self: stretch;
+  border-radius: var(--br-7xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) var(--padding-11xl) var(--padding-mini);
+}
+
+.settings {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 55px;
+}
+
+.user-circle-icon {
+  height: 22px;
+  width: 22px;
+  position: relative;
+  min-height: 22px;
+}
+
+.dashboard3 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  font-weight: 600;
+}
+
+.div12 {
+  align-self: stretch;
+  width: 9px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.badge6 {
+  align-self: stretch;
+  width: 22px;
+  border-radius: var(--br-xl);
+  background-color: var(--light-opacity-color-primary-primary-16);
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-7xs);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--light-basic-typography-paragraph-small-semi-bold-size);
+  color: var(--light-solid-color-primary-primary-500-base);
+}
+
+.chevron-right-icon1 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  display: none;
+}
+
+.list {
+  align-self: stretch;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-whitesmoke-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-base);
+  gap: var(--gap-5xs);
+  color: var(--color-gray-500);
+}
+
+.components {
+  align-self: stretch;
+  border-radius: var(--br-7xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-base);
+  gap: var(--gap-5xs);
+}
+
+.customers {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+
+.apps-pages {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-sm);
+  gap: var(--gap-5xs);
+  font-size: var(--light-basic-typography-paragraph-size);
+}
+
+.menu3 {
+  flex: 1;
+  position: relative;
+  font-size: var(--light-basic-typography-paragraph-size);
+  line-height: 22px;
+  font-family: var(--light-basic-typography-paragraph);
+  color: var(--color-lightslategray);
+  text-align: left;
+}
+
+.list23 {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-4xs) var(--padding-base);
+  background-color: transparent;
+  align-self: stretch;
+  border-radius: var(--br-7xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+
+.admin {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 37px;
+}
+
+.menu4 {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--light-solid-color-extra-card-background);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px 0px var(--padding-3xs);
+  text-align: left;
+  font-size: var(--light-basic-typography-caption-size);
+  color: var(--color-lightslategray);
+  font-family: var(--light-basic-typography-paragraph);
+}
+
+@media screen and (max-width: 450px) {
+  .logo-icon2 {
+    width: calc(100% - 40px);
+  }
+
+  .fba-quant2 {
+    font-size: var(--font-size-lg);
+    line-height: 19px;
+  }
+}
+
+.menu2 {
+  width: 260px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
 }

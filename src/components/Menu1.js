@@ -1,6 +1,6 @@
 import AppsPages1 from "./apps-pages1";
 import AppsPages from "./apps-pages";
-import "./menu1.css";
+import "./Menu1.css";
 
 const Menu1 = () => {
   return (
