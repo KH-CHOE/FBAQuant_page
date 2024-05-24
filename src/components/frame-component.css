@@ -1,0 +1,305 @@
+.start-your-14-day {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-12xl-3);
+  letter-spacing: -0.5px;
+  line-height: 38px;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.already-a-member {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-smi-8);
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-gray-100);
+  text-align: center;
+}
+.first-name {
+  position: relative;
+  font-size: var(--font-size-2xs-3);
+  line-height: 19px;
+  font-weight: 500;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 59px;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.john {
+  height: 31.2px;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 28.16px;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-dimgray-100);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  min-width: 34px;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.john-wrapper {
+  width: 37.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-12xs) 0px var(--padding-11xs-5);
+  box-sizing: border-box;
+  margin-top: -0.4px;
+}
+.email-address-input {
+  height: 49.7px;
+  width: 331.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 30.700000000000045px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.inputname {
+  align-self: stretch;
+  background-color: var(--light-solid-color-extra-card-background);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11.900000000000093px 15.299999999999995px 6.399999999999864px;
+  max-width: 100%;
+}
+.email-adrress {
+  position: relative;
+  font-size: var(--font-size-2xs-3);
+  line-height: 19px;
+  font-weight: 500;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-dimgray-100);
+  text-align: left;
+  display: inline-block;
+  min-width: 78px;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.johndoeexamplecom {
+  margin-top: -0.40000000000009095px;
+  height: 31.2px;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 28.16px;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.johndoeexamplecom-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame {
+  height: 49.7px;
+  width: 330.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 30.700000000000045px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.inputname-copy-2 {
+  align-self: stretch;
+  background-color: var(--light-solid-color-extra-card-background);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11.900000000000093px 16.799999999999997px 6.399999999999864px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.password {
+  position: relative;
+  font-size: var(--font-size-2xs-3);
+  line-height: 19px;
+  font-weight: 500;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-dimgray-100);
+  text-align: left;
+  display: inline-block;
+  min-width: 55px;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.div54 {
+  margin-top: -0.40000000000009095px;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 28.2px;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-gray-100);
+  text-align: left;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.frame1 {
+  height: 46.7px;
+  width: 330.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 27.700000000000045px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.inputname-copy-3 {
+  align-self: stretch;
+  background-color: var(--light-solid-color-extra-card-background);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11.900000000000093px 16.799999999999997px 9.399999999999864px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.input-name-areas {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.25px;
+  max-width: 100%;
+}
+.checkbox {
+  accent-color: #3d3d3d;
+  margin: 0;
+  height: 23px;
+  width: 22.5px;
+  position: relative;
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.terms {
+  position: relative;
+  font-size: var(--font-size-2xs-2);
+  text-decoration: underline;
+  line-height: 23px;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.checkbox-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.create-an-account {
+  width: 163px;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 29px;
+  font-weight: 500;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--light-solid-color-extra-card-background);
+  text-align: center;
+  display: inline-block;
+}
+.btn-prytemplate-2 {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-lg) var(--padding-xl) var(--padding-mid)
+    var(--padding-2xl);
+  background-color: var(--color-gray-200);
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  white-space: nowrap;
+}
+.btn-prytemplate-2:hover {
+  background-color: var(--color-dimgray-200);
+}
+.or-use {
+  width: 18px;
+  position: relative;
+  font-size: var(--font-size-smi-8);
+  line-height: 23px;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  min-width: 18px;
+}
+.or-use-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px var(--padding-xl);
+}
+.terms1 {
+  width: 150px;
+  position: relative;
+  font-size: var(--light-basic-typography-caption-size);
+  text-decoration: underline;
+  line-height: 23px;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-midnightblue);
+  text-align: right;
+  display: inline-block;
+  cursor: pointer;
+}
+.start-your-14-day-free-trial-parent {
+  margin: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17.333333333333332px;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 675px) {
+  .start-your-14-day {
+    font-size: var(--font-size-6xl);
+    line-height: 30px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .start-your-14-day {
+    font-size: var(--font-size-lgi);
+    line-height: 22px;
+  }
+}

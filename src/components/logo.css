@@ -1,0 +1,32 @@
+.logo-icon4 {
+  height: 24px;
+  width: 28px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  min-height: 24px;
+}
+.fba-quant4 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 24px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 114px;
+}
+.logo4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-11xl) var(--padding-33xl) var(--padding-xl)
+    var(--padding-37xl);
+  gap: var(--gap-3xs);
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-500);
+  font-family: var(--light-basic-typography-paragraph);
+}

@@ -1,0 +1,700 @@
+.total-sales-cost-child4 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-base);
+  background-color: var(--light-solid-color-extra-card-background);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.us-1-icon {
+  position: absolute;
+  top: 3.5px;
+  left: 0px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.user-count {
+  width: 267px;
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.percent-change {
+  width: 267px;
+  position: relative;
+  font-size: var(--light-basic-typography-paragraph-small-semi-bold-size);
+  line-height: 20px;
+  color: var(--color-lightslategray);
+  display: flex;
+  align-items: center;
+}
+.text34 {
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  width: 83px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.chevron-up-icon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.percentage-values {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 47px;
+}
+.percentage {
+  position: absolute;
+  top: 10px;
+  left: 333px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  color: var(--light-solid-color-success-success-500-base);
+}
+.line-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lavender);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.line-item {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumslateblue-100);
+  width: 89px;
+  height: 6px;
+}
+.line2 {
+  position: absolute;
+  top: 18px;
+  left: 149px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lavender);
+  width: 168px;
+  height: 6px;
+}
+.list6 {
+  align-self: stretch;
+  height: 41px;
+  position: relative;
+}
+.br-1-icon {
+  height: 34px;
+  width: 34px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.text36 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 21px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 99px;
+}
+.text37 {
+  position: absolute;
+  top: 21px;
+  left: 0px;
+  font-size: var(--light-basic-typography-paragraph-small-semi-bold-size);
+  line-height: 20px;
+  color: var(--color-lightslategray);
+  display: flex;
+  align-items: center;
+  width: 99px;
+}
+.line-child1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumslateblue-100);
+  width: 65px;
+  height: 6px;
+}
+.line3 {
+  position: absolute;
+  top: 17px;
+  left: 99px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lavender);
+  width: 168px;
+  height: 6px;
+}
+.text35 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  min-width: 175px;
+}
+.text38 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 44px;
+}
+.percentage1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  color: var(--light-solid-color-danger-danger-500-base);
+}
+.list7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.line-child3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumslateblue-100);
+  width: 48px;
+  height: 6px;
+}
+.text39 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  min-width: 176px;
+}
+.text42 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 43px;
+}
+.percentage2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  color: var(--light-solid-color-success-success-500-base);
+}
+.line-child5 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumslateblue-100);
+  width: 28px;
+  height: 6px;
+}
+.text43 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  min-width: 178px;
+}
+.text46 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 40px;
+}
+.body2 {
+  position: absolute;
+  top: 206px;
+  left: 0px;
+  width: 428px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) 0px var(--padding-5xl) var(--padding-5xl);
+  box-sizing: border-box;
+  gap: var(--gap-lg);
+  max-width: 100%;
+  font-size: var(--light-basic-typography-paragraph-size);
+  color: var(--color-dimgray-300);
+}
+.users-in-last {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 26px;
+  font-weight: 600;
+}
+.cash3 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  display: inline-block;
+  min-width: 86px;
+}
+.label18 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.02em;
+  line-height: 22.6px;
+  font-weight: 500;
+  color: var(--color-lightslategray);
+  display: inline-block;
+  min-width: 117px;
+}
+.users-metric {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.top-countries {
+  position: absolute;
+  top: 180px;
+  left: 24px;
+  letter-spacing: -0.02em;
+  line-height: 26px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 113px;
+}
+.users {
+  position: absolute;
+  top: 180px;
+  left: 382px;
+  letter-spacing: -0.02em;
+  line-height: 26px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 48px;
+}
+.graph-bars {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 35px;
+}
+.graph-bars1 {
+  position: absolute;
+  top: 18px;
+  left: 9px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 17px;
+}
+.graph-bars2 {
+  position: absolute;
+  top: 13px;
+  left: 18px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 22px;
+}
+.graph-bars3 {
+  position: absolute;
+  top: 26px;
+  left: 27px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 9px;
+}
+.graph-bars4 {
+  position: absolute;
+  top: 7px;
+  left: 36px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 28px;
+}
+.graph-bars5 {
+  position: absolute;
+  top: 13px;
+  left: 45px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 22px;
+}
+.graph-bars6 {
+  position: absolute;
+  top: 18px;
+  left: 54px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 17px;
+}
+.graph-bars7 {
+  position: absolute;
+  top: 4px;
+  left: 63px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 31px;
+}
+.graph-bars8 {
+  position: absolute;
+  top: 29px;
+  left: 72px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 6px;
+}
+.graph-bars9 {
+  position: absolute;
+  top: 21px;
+  left: 81px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 14px;
+}
+.graph-bars10 {
+  position: absolute;
+  top: 13px;
+  left: 90px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 22px;
+}
+.graph-bars11 {
+  position: absolute;
+  top: 26px;
+  left: 99px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 9px;
+}
+.graph-bars12 {
+  position: absolute;
+  top: 7px;
+  left: 108px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 28px;
+}
+.graph-bars13 {
+  position: absolute;
+  top: 31px;
+  left: 117px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 4px;
+}
+.graph-bars14 {
+  position: absolute;
+  top: 16px;
+  left: 126px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 19px;
+}
+.graph-bars15 {
+  position: absolute;
+  top: 10px;
+  left: 135px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 25px;
+}
+.graph-bars16 {
+  position: absolute;
+  top: 21px;
+  left: 144px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 14px;
+}
+.graph-bars17 {
+  position: absolute;
+  top: 7px;
+  left: 153px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 28px;
+}
+.graph-bars18 {
+  position: absolute;
+  top: 13px;
+  left: 162px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 22px;
+}
+.graph-bars19 {
+  position: absolute;
+  top: 29px;
+  left: 171px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 6px;
+}
+.graph-bars20 {
+  position: absolute;
+  top: 13px;
+  left: 180px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 22px;
+}
+.graph-bars21 {
+  position: absolute;
+  top: 24px;
+  left: 189px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 11px;
+}
+.graph-bars22 {
+  position: absolute;
+  top: 7px;
+  left: 198px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 28px;
+}
+.graph-bars23 {
+  position: absolute;
+  top: 0px;
+  left: 207px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 35px;
+}
+.graph-bars24 {
+  position: absolute;
+  top: 21px;
+  left: 216px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 14px;
+}
+.graph-bars25 {
+  position: absolute;
+  top: 13px;
+  left: 225px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 22px;
+}
+.graph-bars26 {
+  position: absolute;
+  top: 29px;
+  left: 234px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 6px;
+}
+.graph-bars27 {
+  position: absolute;
+  top: 10px;
+  left: 243px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 25px;
+}
+.graph-bars28 {
+  position: absolute;
+  top: 0px;
+  left: 252px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 35px;
+}
+.graph-bars29 {
+  position: absolute;
+  top: 24px;
+  left: 261px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 11px;
+}
+.graph-bars30 {
+  position: absolute;
+  top: 13px;
+  left: 270px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 22px;
+}
+.graph-bars31 {
+  position: absolute;
+  top: 21px;
+  left: 279px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 14px;
+}
+.graph-bars32 {
+  position: absolute;
+  top: 29px;
+  left: 288px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 6px;
+}
+.graph-bars33 {
+  position: absolute;
+  top: 21px;
+  left: 297px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 14px;
+}
+.graph-bars34 {
+  position: absolute;
+  top: 0px;
+  left: 306px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 35px;
+}
+.graph-bars35 {
+  position: absolute;
+  top: 27px;
+  left: 315px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 8px;
+}
+.graph-bars36 {
+  position: absolute;
+  top: 16px;
+  left: 324px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 19px;
+}
+.graph-bars37 {
+  position: absolute;
+  top: 24px;
+  left: 333px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 11px;
+}
+.graph-bars38 {
+  position: absolute;
+  top: 21px;
+  left: 342px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 14px;
+}
+.graph-bars39 {
+  position: absolute;
+  top: 0px;
+  left: 351px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 35px;
+}
+.graph-bars40 {
+  position: absolute;
+  top: 18px;
+  left: 360px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 17px;
+}
+.graph-bars41 {
+  position: absolute;
+  top: 31px;
+  left: 369px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 4px;
+}
+.graph-bars42 {
+  position: absolute;
+  top: 27px;
+  left: 378px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 8px;
+}
+.graph-bars43 {
+  position: absolute;
+  top: 13px;
+  left: 387px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 22px;
+}
+.graph-bars44 {
+  position: absolute;
+  top: 18px;
+  left: 396px;
+  background-color: var(--color-mediumslateblue-100);
+  width: 8px;
+  height: 17px;
+}
+.bargraph {
+  position: absolute;
+  top: 129px;
+  left: 24px;
+  width: 404px;
+  height: 35px;
+}
+.total-sales-cost4 {
+  position: absolute;
+  top: 540px;
+  left: 674px;
+  border-radius: var(--br-base);
+  background-color: var(--light-solid-color-extra-card-background);
+  width: 454px;
+  height: 476px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+  font-family: var(--light-basic-typography-paragraph);
+}
+
+@media screen and (max-width: 750px) {
+  .cash3 {
+    font-size: var(--font-size-7xl);
+    line-height: 26px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cash3 {
+    font-size: var(--font-size-lgi);
+    line-height: 19px;
+  }
+
+  .total-sales-cost4 {
+    height: auto;
+    min-height: 476;
+  }
+}

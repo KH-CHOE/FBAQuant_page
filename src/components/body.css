@@ -1,0 +1,131 @@
+.l9ppriiql-1-icon {
+  width: 26px;
+  height: 34px;
+  position: relative;
+  object-fit: contain;
+}
+.sony-dualsense {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-3xs);
+}
+.product-name {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  min-width: 115px;
+}
+.product-description {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--light-basic-typography-paragraph-small-semi-bold-size);
+  line-height: 20px;
+  color: var(--color-lightslategray);
+}
+.text47 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.product-price {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  text-align: right;
+  display: inline-block;
+  min-width: 61px;
+  white-space: nowrap;
+}
+.list10 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.nike-air-jordan-icon {
+  height: 46px;
+  width: 46px;
+  position: relative;
+  object-fit: cover;
+}
+.text49 {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  min-width: 108px;
+}
+.text51 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  text-align: right;
+  display: inline-block;
+  min-width: 51px;
+  white-space: nowrap;
+}
+.text53 {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  min-width: 105px;
+}
+.text55 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  text-align: right;
+  display: inline-block;
+  min-width: 52px;
+  white-space: nowrap;
+}
+.text57 {
+  position: relative;
+  line-height: 21px;
+}
+.text61 {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  min-width: 125px;
+}
+.screenshot-2022-08-24-at-807-icon {
+  width: 40px;
+  height: 26px;
+  position: relative;
+  object-fit: contain;
+}
+.sony-dualsense1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-10xs);
+}
+.text67 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  text-align: right;
+  display: inline-block;
+  min-width: 58px;
+  white-space: nowrap;
+}
+.body3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl);
+  gap: var(--gap-lg);
+  text-align: left;
+  font-size: var(--light-basic-typography-paragraph-size);
+  color: var(--color-gray-500);
+  font-family: var(--light-basic-typography-paragraph);
+}

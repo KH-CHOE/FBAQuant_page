@@ -1,0 +1,162 @@
+.logo-icon3 {
+  height: 24px;
+  width: 28px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  min-height: 24px;
+}
+.fba-quant3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 24px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 114px;
+}
+.logo3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-11xl) var(--padding-33xl) var(--padding-xl)
+    var(--padding-37xl);
+  gap: var(--gap-3xs);
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-500);
+}
+.main-menu2 {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 65px;
+}
+.section6 {
+  align-self: stretch;
+  border-radius: var(--br-7xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-11xl);
+}
+.todo1 {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 31px;
+}
+.section7 {
+  align-self: stretch;
+  border-radius: var(--br-7xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) var(--padding-11xl) var(--padding-mini);
+}
+.settings1 {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 55px;
+}
+.user-circle-icon2 {
+  height: 22px;
+  width: 22px;
+  position: relative;
+  min-height: 22px;
+}
+.manage-account1 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.div25 {
+  align-self: stretch;
+  width: 9px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.badge15 {
+  align-self: stretch;
+  width: 22px;
+  border-radius: var(--br-xl);
+  background-color: var(--light-opacity-color-primary-primary-16);
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-7xs);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--light-basic-typography-paragraph-small-semi-bold-size);
+  color: var(--light-solid-color-primary-primary-500-base);
+}
+.chevron-right-icon11 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  display: none;
+}
+.list27 {
+  align-self: stretch;
+  border-radius: var(--br-7xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-base);
+  gap: var(--gap-5xs);
+}
+.components2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-sm);
+  font-size: var(--light-basic-typography-paragraph-size);
+}
+.menu5 {
+  flex: 1;
+  background-color: var(--light-solid-color-extra-card-background);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px 0px var(--padding-465xl);
+  text-align: left;
+  font-size: var(--light-basic-typography-caption-size);
+  color: var(--color-lightslategray);
+  font-family: var(--light-basic-typography-paragraph);
+}
+
+@media screen and (max-width: 750px) {
+  .fba-quant3 {
+    font-size: var(--font-size-lg);
+    line-height: 19px;
+  }
+
+  .logo3 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+  .menu5 {
+    padding-bottom: var(--padding-186xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .menu5 {
+    padding-bottom: var(--padding-296xl);
+    box-sizing: border-box;
+  }
+}

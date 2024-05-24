@@ -1,0 +1,194 @@
+.start-your-14-day1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-12xl-3);
+  letter-spacing: -0.5px;
+  line-height: 37.5px;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.already-a-member1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-smi-8);
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-gray-100);
+  text-align: center;
+}
+.email-adrress1 {
+  position: relative;
+  font-size: var(--font-size-2xs-3);
+  line-height: 18.06px;
+  font-weight: 500;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.terms-text {
+  width: 330.2px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  height: 30.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0.20000000000000284px 0px;
+  box-sizing: border-box;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  max-width: 100%;
+}
+.inputname-copy-21 {
+  align-self: stretch;
+  background-color: var(--light-solid-color-extra-card-background);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11.900000000000006px 16.799999999999997px 6.300000000000011px;
+  max-width: 100%;
+}
+.inputname-copy-3-child {
+  width: 330.2px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  height: 27.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0.20000000000000284px 0px;
+  box-sizing: border-box;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  max-width: 100%;
+}
+.inputname-copy-31 {
+  align-self: stretch;
+  background-color: var(--light-solid-color-extra-card-background);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11.900000000000006px 16.799999999999997px 9.300000000000011px;
+  max-width: 100%;
+}
+.input-name-copy-email-address {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.checkbox1 {
+  accent-color: #909090;
+  margin: 0;
+  height: 23px;
+  width: 22.5px;
+  position: relative;
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.terms2 {
+  position: relative;
+  font-size: var(--font-size-2xs-2);
+  text-decoration: underline;
+  line-height: 22.53px;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.new-shape-vector {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.create-an-account1 {
+  width: 72px;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 28.16px;
+  font-weight: 500;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--light-solid-color-extra-card-background);
+  text-align: center;
+  display: inline-block;
+}
+.btn-prytemplate-21 {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-lg) var(--padding-xl) var(--padding-mid);
+  background-color: var(--color-gray-200);
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.btn-prytemplate-21:hover {
+  background-color: var(--color-dimgray-200);
+}
+.or-use1 {
+  width: 18px;
+  position: relative;
+  font-size: var(--font-size-smi-8);
+  line-height: 22.53px;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
+.or-use-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px var(--padding-xl);
+}
+.terms3 {
+  position: relative;
+  font-size: var(--light-basic-typography-caption-size);
+  text-decoration: underline;
+  line-height: 22.53px;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  color: var(--color-midnightblue);
+  text-align: right;
+  cursor: pointer;
+}
+.start-trial-button {
+  margin: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17.333333333333332px;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 675px) {
+  .start-your-14-day1 {
+    font-size: var(--font-size-6xl);
+    line-height: 30px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .start-your-14-day1 {
+    font-size: var(--font-size-lgi);
+    line-height: 22px;
+  }
+}

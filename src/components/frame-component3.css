@@ -1,0 +1,472 @@
+.nvidia-1-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.nvidia {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 36px;
+}
+.nvidia-1-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px 0px 0px 0px;
+  gap: var(--gap-7xs);
+}
+.nvda {
+  width: 34px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 34px;
+}
+.am-pm-indicator {
+  align-self: stretch;
+  position: relative;
+  text-transform: uppercase;
+  color: var(--color-yellowgreen);
+  display: inline-block;
+  min-width: 33px;
+}
+.nvda-parent {
+  width: 33px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0px 0px 0px 0px;
+  box-sizing: border-box;
+  text-align: right;
+}
+.monthly-budget {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px var(--padding-11xs);
+  gap: var(--gap-xl);
+}
+.current-value {
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 77px;
+}
+.div39 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--color-gray-400);
+  display: inline-block;
+  min-width: 73px;
+  white-space: nowrap;
+}
+.frame-child2 {
+  height: 24px;
+  width: 78px;
+  position: relative;
+}
+.deta-table-row-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  color: var(--color-gray-300);
+}
+.income-expenses {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-paleturquoise);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base-5) var(--padding-xs);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  min-width: 138px;
+}
+.meta {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 29px;
+}
+.meta-1-1-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px var(--padding-11xs) 0px 0px;
+  gap: var(--gap-7xs);
+}
+.meta1 {
+  align-self: stretch;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 33px;
+}
+.div40 {
+  width: 30px;
+  position: relative;
+  text-transform: uppercase;
+  color: var(--color-red);
+  display: inline-block;
+  min-width: 30px;
+}
+.meta-parent {
+  width: 33px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  text-align: right;
+}
+.div41 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--light-solid-color-extra-card-background);
+  display: inline-block;
+  min-width: 64px;
+  white-space: nowrap;
+}
+.current-value-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.frame-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  color: var(--color-gray-600);
+}
+.income-expenses1 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-mediumpurple);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-xs);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  min-width: 138px;
+  color: var(--light-solid-color-extra-card-background);
+}
+.tesla-inc {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 50px;
+  flex-shrink: 0;
+}
+.tesla-motors-1-1-parent {
+  width: 62px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px 0px 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-7xs);
+}
+.tsla {
+  width: 31px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 31px;
+}
+.div42 {
+  width: 35px;
+  position: relative;
+  text-transform: uppercase;
+  color: var(--color-yellowgreen);
+  display: inline-block;
+  min-width: 35px;
+}
+.tsla-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0px 0px 0px 0px;
+  text-align: right;
+}
+.div43 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--color-gray-400);
+  display: inline-block;
+  min-width: 67px;
+  white-space: nowrap;
+}
+.frame-child4 {
+  height: 24px;
+  width: 78px;
+  position: relative;
+  object-fit: contain;
+}
+.income-expenses2 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-navajowhite);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-xs);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  min-width: 138px;
+}
+.px-apple-logo-black-1-icon {
+  position: absolute;
+  top: 0px;
+  left: 3px;
+  width: 19px;
+  height: 24px;
+  object-fit: cover;
+}
+.px-apple-logo-black-2-icon {
+  position: absolute;
+  top: 0px;
+  left: 3px;
+  width: 19px;
+  height: 24px;
+  object-fit: cover;
+  display: none;
+  mix-blend-mode: screen;
+}
+.apple-inc {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 53px;
+  flex-shrink: 0;
+}
+.aapl1 {
+  width: 32px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 32px;
+}
+.div44 {
+  width: 37px;
+  position: relative;
+  text-transform: uppercase;
+  color: var(--color-yellowgreen);
+  display: inline-block;
+  min-width: 37px;
+}
+.div45 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--color-gray-400);
+  display: inline-block;
+  min-width: 70px;
+  white-space: nowrap;
+}
+.income-expenses3 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgreen);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-xs);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  min-width: 138px;
+}
+.amd-logo-1-1-icon {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 16px;
+  left: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.current-value4 {
+  position: absolute;
+  margin: 0 !important;
+  bottom: 41px;
+  left: 12px;
+  text-transform: capitalize;
+  color: var(--color-gray-300);
+  display: inline-block;
+  min-width: 77px;
+}
+.monthly-budget-graphic {
+  position: absolute;
+  margin: 0 !important;
+  bottom: 16px;
+  left: 12px;
+  font-size: var(--font-size-lg);
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 62px;
+  white-space: nowrap;
+}
+.frame-child6 {
+  width: 78px;
+  height: 24px;
+  position: absolute;
+  margin: 0 !important;
+  right: -21px;
+  bottom: 23.5px;
+}
+.amd {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 10px;
+}
+.amd-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.advanced-micro-devices {
+  width: 93px;
+  height: 18px;
+  position: relative;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top: -9px;
+}
+.div46 {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 8.899999999999999px;
+}
+.wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  margin-top: -9px;
+  color: var(--color-crimson-100);
+}
+.frame-child7 {
+  width: calc(100% - 25px);
+  height: calc(100% + 25px);
+  position: absolute;
+  margin: 0 !important;
+  top: 116px;
+  right: -116px;
+  bottom: -141px;
+  left: 141px;
+  background: linear-gradient(183.17deg, #fff, rgba(255, 255, 255, 0));
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.frame-parent8 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-12xs) var(--padding-lg)
+    var(--padding-2xs);
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  text-align: right;
+}
+.amd-logo-1-1-parent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-5xs) 0px 0px var(--br-5xs);
+  background-color: var(--color-violet);
+  width: 180px;
+  height: 115px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px var(--padding-20xl);
+  box-sizing: border-box;
+}
+.arrow-right-wrapper {
+  position: absolute;
+  top: 54.5px;
+  left: 154px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-blue);
+  box-shadow: 0px 4px 17px rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  z-index: 2;
+}
+.open-prev-close-avg-days {
+  height: 115px;
+  width: 198px;
+  position: relative;
+}
+.income-expenses-parent {
+  margin: 0;
+  width: 1066px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-9xs);
+  max-width: 100%;
+  white-space: nowrap;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-400);
+  font-family: var(--light-basic-typography-paragraph);
+}
+
+@media screen and (max-width: 675px) {
+  .income-expenses-parent {
+    flex-wrap: wrap;
+  }
+}
